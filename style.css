@@ -1,0 +1,18 @@
+cat << EOF > ~/my-static-site/style.css
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  text-align: center;
+  margin-top: 100px;
+}
+.demo-button {
+  background-color: #0078d4;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+.demo-button:hover {
+  background-color: #005a9e;
+}
+EOF
