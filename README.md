@@ -1,7 +1,7 @@
 # Azure Project: Static Website + Azure Container Instance Integration
 # Team Members
-  1.	Yeshwanth Veeresham – Development and Deployment
-  2.	M. Sanjana – Data Collection and Information Gathering
+  1.	M. Sanjana – Development and Deployment 
+  2.	Yeshwanth Veeresham – Data Collection and Information Gathering
   3.	Khadar – Documentation
 Project Overview
 This project demonstrates the deployment of a modern static website using Azure Storage and its integration with a live Azure Container Instance (ACI) running a demo Nginx container. It showcases the combination of static and dynamic content hosted entirely in the Azure Cloud, without the need to manage any virtual machines.
