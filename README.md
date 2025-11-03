@@ -4,6 +4,7 @@
   2.	Yeshwanth Veeresham – Data Collection and Information Gathering
   3.	Khadar – Documentation
 Project Overview
+
 This project demonstrates the deployment of a modern static website using Azure Storage and its integration with a live Azure Container Instance (ACI) running a demo Nginx container. It showcases the combination of static and dynamic content hosted entirely in the Azure Cloud, without the need to manage any virtual machines.
 
 The static website (HTML + CSS) is hosted using Azure Storage Static Website Hosting, while the dynamic component (Nginx container) runs on Azure Container Instances. A button on the static site links directly to the container endpoint, offering an interactive and cloud-native demonstration.
